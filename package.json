@@ -8,7 +8,7 @@
     "devDependencies": {
         "axios": "^1.7.2",
         "laravel-vite-plugin": "^1.0.4",
-        "vite": "^5.2.12"
+        "vite": "^5.3.5"
     },
     "dependencies": {
         "@simonwep/pickr": "^1.9.1",
